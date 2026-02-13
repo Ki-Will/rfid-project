@@ -17,7 +17,7 @@ app.use(express.json());
 // -------------------------------
 // Config
 // -------------------------------
-const PORT = process.env.PORT || 9209;
+const PORT = process.env.PORT || 8228;
 const TEAM_ID = "vikings";
 const MQTT_BROKER = "mqtt://157.173.101.159:1883";
 
